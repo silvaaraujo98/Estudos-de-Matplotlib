@@ -1,0 +1,12 @@
+Exercícios de Matplotlib
+1 - Fazer um gráfico com a variação anual do salário dos jogadores.
+
+
+2 - Fazer um bloxplot com uma posição dos salários do jogadores.
+
+
+3 - Fazer um gráfico com o salário por time.
+
+
+4 - Buscar o campeão de cada ano e tentar fazer um paralelo com o salário
+
